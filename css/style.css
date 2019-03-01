@@ -1,0 +1,14 @@
+#gameRules h1 {
+    font-size: 5rem;
+    text-align: center;
+}
+
+#gameRules h2 {
+    font-size: 3rem;
+    text-align: center;
+}
+
+#gameRules li {
+    font-size: 1.4rem;
+/*    text-align: center;*/
+}

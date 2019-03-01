@@ -1,0 +1,2 @@
+SECRET_KEY="f862fc712c613ccce4c1fa06d83f2cc589172badf849a31be8fa60a0882d6b3d"
+COOKIE_DOMAIN='localhost'
